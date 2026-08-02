@@ -10,6 +10,7 @@ COURSEWORK_REPORT.md
 CODE_REFERENCE.md
 submission/
 create_ppt.py
+*.pptx
 
 # Data and model files (too large for GitHub)
 data/
