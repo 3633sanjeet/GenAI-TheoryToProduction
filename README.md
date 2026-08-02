@@ -1,6 +1,5 @@
 # Generative AI: From Theory to Implementation
 
-**Course:** Generative AI (IITM)  
 **Author:** Sanjeet Phoughat  
 
 A comprehensive learning project implementing three foundational generative AI architectures (**VAE**, **Diffusion Models**, **GAN**) from first principles, with both scratch and production implementations.
@@ -133,11 +132,10 @@ After completing this project, you will understand:
 
 ## References
 
-**Courses:**
-- [IITM - Generative AI Course](local_reference/GenAI-IITM.pdf) (enrolled course materials)
-- [Open-Source Generative AI Course](https://prathosh.in/cce-genai.html) (public reference)
+**Course Materials:**
+- [Generative AI Course Resources](https://prathosh.in/cce-genai.html) — Open-source reference materials for theory
 
-**Papers:**
+**Key Papers:**
 - Kingma & Welling (2014): [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
 - Ho et al. (2020): [Denoising Diffusion Probabilistic Models](https://arxiv.org/abs/2006.11239)
 - Goodfellow et al. (2014): [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
